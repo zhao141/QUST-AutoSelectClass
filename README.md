@@ -2,8 +2,11 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-##### 青岛科技大学新教务自动抢课JS脚本
-**信息学院科协/[QUST-Coder/core-team](https://github.com/orgs/QUST-Coder/teams/core-team)** 出品
+##### 这里删除了原作者的信息，目的是为了保护隐私
+
+
+---- 2020.2.23更新------
+上传一个已打包好的exe软件，只需挂上vpn，填入用户名密码即可开始抢课
 
 ## 适用于青岛科技大学新教务自动抢课
 ### 使用方法
