@@ -26,11 +26,9 @@
 特别的，如果您修改了本软件，您需指出您的修改处，并且在分发您的修改版本时附带上所有源代码。
 
 #### 如何加入本项目 / 贡献代码？
-[QUST-Coder/core-team](https://github.com/orgs/QUST-Coder/teams/core-team) 的所有成员拥有对本 repo 的写入（push）权限；
 
-[QUST-Coder](https://github.com/QUST-Coder) 的成员可以申请加入 core-team，或者尝试“其他用户”的方法；
 
-其他用户建议直接 fork 本 repo 做更改后发起 pull request，但不保证能够迅速地得到审查。
+##### 这里删除了原作者的信息，目的是为了保护隐私
 
 **所有想要贡献代码的用户都必须先阅读 [CONTRIBUTING.md](https://github.com/QUST-Coder/retarded-qust/blob/master/CONTRIBUTING.md)**
 #### 免责声明
